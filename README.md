@@ -1,11 +1,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">👋 I'm Shivaramakrishna Aravapally <br> A Computer Science Student & Tech Enthusiast</p>
+<p align="center">👋 I'm <b>Shivaramakrishna Aravapally</b> <br> A Computer Science Student & Tech Enthusiast</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srk-7&label=Profile%20views&color=0e75b6&style=flat" alt="srk-7" /> </p>
 
 - 📫 You can reach me at [srkarvapally@gmail.com](mailto:srkarvapally@gmail.com "Email ID")
-- 🔭 I’m currently working on **Selenium and Playwright**
+- 🔭 I’m currently working on **Selenium, Playwright**
 - 🌱 I’m currently learning **React, Typescript**
 - 📄 My Resume [Resume](https://drive.google.com/file/d/1h44KM_Jph5g0CLBuIB_P_k9Qr62oDcMh/view?usp=sharing)
 - ⚡ My Portfolio [https://srk-7.github.io/portfolio/](https://srk-7.github.io/portfolio/)
@@ -80,4 +80,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="Visual Studio Code"/>
 </div>
 
+<h3 align="left">🔥   My GitHub Stats:</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srk-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srk-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=srk-7&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
