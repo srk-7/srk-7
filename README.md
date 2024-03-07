@@ -1,6 +1,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">👋 I'm <h4>Shivaramakrishna Aravapally</h4> <br> A Computer Science Student & Tech Enthusiast</p>
+<p align="center">👋 I'm <b>Shivaramakrishna Aravapally</b> <br> A Computer Science Student & Tech Enthusiast</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srk-7&label=Profile%20views&color=0e75b6&style=flat" alt="srk-7" /> </p>
 
