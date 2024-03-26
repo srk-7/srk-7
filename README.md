@@ -7,7 +7,7 @@
 - 📫 You can reach me at [srkarvapally@gmail.com](mailto:srkarvapally@gmail.com "Email ID")
 - 🔭 I’m currently working on **Selenium, Playwright**
 - 🌱 I’m currently learning **React, Typescript**
-- 📄 My [Resume](https://drive.google.com/file/d/1h44KM_Jph5g0CLBuIB_P_k9Qr62oDcMh/view?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/file/d/10t7ST4C7Ig9tsCg8EhuBqrQYm0WE1Rmw/view?usp=sharing)
 - ⚡ My Portfolio [https://srk-7.github.io/portfolio/](https://srk-7.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
